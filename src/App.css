@@ -1,12 +1,26 @@
 .KujiMain{
-  margin: 0 auto;
-  max-width: 600px;
+  max-width: 1600px;
+  margin-left:100px;
 }
 
 .KujiTitle{
-  margin-left:15px;
-  font-size: 50px;
+  margin-left:280px;
+  font-size: 100px;
   font-family: "ヒラギノ明朝";
+}
+
+.Kujihonbun{
+  float:left;
+  width:40%;
+}
+
+.Kujileft{
+  float: left;
+  width:30%;
+}
+.Kujiright{
+  float: left;
+  width:30%; 
 }
 
 .KujiImg{
@@ -14,11 +28,16 @@
 }
 
 .KujiButton{
-  margin-left: 160px;;
+  margin-left: 160px;
+  margin-top:10px;
 }
 
 .KujiResult{
-  margin-left: 130px;
+  margin-left: 180px;
+}
+
+.ResultImg{
+  margin-top:120px;
 }
 
 .omikuji{
